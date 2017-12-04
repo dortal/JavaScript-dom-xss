@@ -6,4 +6,4 @@ alert(document.URL);
 </script>
 </body>
 </html>
- 
+ hai
